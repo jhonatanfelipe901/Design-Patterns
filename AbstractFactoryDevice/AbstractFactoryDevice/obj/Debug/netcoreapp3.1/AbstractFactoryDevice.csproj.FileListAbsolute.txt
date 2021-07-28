@@ -1,0 +1,13 @@
+C:\Users\jnascimento\source\repos\AbstractFactoryDevice\AbstractFactoryDevice\bin\Debug\netcoreapp3.1\AbstractFactoryDevice.exe
+C:\Users\jnascimento\source\repos\AbstractFactoryDevice\AbstractFactoryDevice\bin\Debug\netcoreapp3.1\AbstractFactoryDevice.deps.json
+C:\Users\jnascimento\source\repos\AbstractFactoryDevice\AbstractFactoryDevice\bin\Debug\netcoreapp3.1\AbstractFactoryDevice.runtimeconfig.json
+C:\Users\jnascimento\source\repos\AbstractFactoryDevice\AbstractFactoryDevice\bin\Debug\netcoreapp3.1\AbstractFactoryDevice.runtimeconfig.dev.json
+C:\Users\jnascimento\source\repos\AbstractFactoryDevice\AbstractFactoryDevice\bin\Debug\netcoreapp3.1\AbstractFactoryDevice.dll
+C:\Users\jnascimento\source\repos\AbstractFactoryDevice\AbstractFactoryDevice\bin\Debug\netcoreapp3.1\AbstractFactoryDevice.pdb
+C:\Users\jnascimento\source\repos\AbstractFactoryDevice\AbstractFactoryDevice\obj\Debug\netcoreapp3.1\AbstractFactoryDevice.csprojAssemblyReference.cache
+C:\Users\jnascimento\source\repos\AbstractFactoryDevice\AbstractFactoryDevice\obj\Debug\netcoreapp3.1\AbstractFactoryDevice.AssemblyInfoInputs.cache
+C:\Users\jnascimento\source\repos\AbstractFactoryDevice\AbstractFactoryDevice\obj\Debug\netcoreapp3.1\AbstractFactoryDevice.AssemblyInfo.cs
+C:\Users\jnascimento\source\repos\AbstractFactoryDevice\AbstractFactoryDevice\obj\Debug\netcoreapp3.1\AbstractFactoryDevice.csproj.CoreCompileInputs.cache
+C:\Users\jnascimento\source\repos\AbstractFactoryDevice\AbstractFactoryDevice\obj\Debug\netcoreapp3.1\AbstractFactoryDevice.dll
+C:\Users\jnascimento\source\repos\AbstractFactoryDevice\AbstractFactoryDevice\obj\Debug\netcoreapp3.1\AbstractFactoryDevice.pdb
+C:\Users\jnascimento\source\repos\AbstractFactoryDevice\AbstractFactoryDevice\obj\Debug\netcoreapp3.1\AbstractFactoryDevice.genruntimeconfig.cache
